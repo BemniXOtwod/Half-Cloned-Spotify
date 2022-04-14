@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+}
+
+.navbar {
+    margin-top: 0;
+    margin-left: 0px;
+    background-color: black;
+    height: 10%;
+}
+
+.trial {
+    background-color: rgb(255, 205, 210);
+}
+
+.navbar-img {
+    margin-top: 7px;
+    margin-left: 70px;
+    height: 40px;
+}
+
+.dropdown {
+    margin-right: 80px;
+}
+
+.nav-link1:hover {
+    color: #1ed760;
+}
+
+#nav-link1 {
+    margin-left: 250px;
+    color: white;
+}
+
+#nav-link2 {
+    color: white;
+}
+
+#nav-link3 {
+    color: white;
+}

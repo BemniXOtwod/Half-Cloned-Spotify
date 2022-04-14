@@ -1,0 +1,139 @@
+* {
+    margin: 0;
+}
+
+.nav {
+    height: 80px;
+    background-color: black;
+    margin-top: 0;
+}
+
+#spotify1 {
+    margin-top: 20px;
+    margin-left: 105px;
+    height: 40px;
+}
+
+#nav-links {
+    display: flex;
+    color: white;
+    list-style-type: none;
+    margin-left: 700px;
+    margin-top: -40px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#premium {
+    margin-right: 30px;
+    text-decoration: none;
+    color: white;
+}
+
+#download {
+    margin-right: 30px;
+    text-decoration: none;
+    color: white;
+}
+
+#support {
+    text-decoration: none;
+    color: white;
+}
+
+#premium:hover {
+    color: #1ed760;
+}
+
+#download:hover {
+    color: #1ed760;
+}
+
+#support:hover {
+    color: #1ed760;
+}
+
+#profile {
+    height: 50px;
+    margin-top: -60px;
+    margin-right: -20px;
+    margin-left: 1150px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.trial {
+    height: 500px;
+    background-color: rgb(255, 205, 210);
+}
+
+#button {
+    margin-top: 2%;
+    margin-left: 45%;
+    padding: 15px;
+    background-color: #D83519;
+    color: white;
+    border-radius: 25px;
+    border: 2px solid #D83519;
+}
+
+#button:hover {
+    transform: scale(1.1);
+    background-color: #c03a22;
+}
+
+#button2 {
+    margin-top: 2%;
+    margin-left: 100px;
+    padding: 15px;
+    background-color: #1ed760;
+    color: rgb(41, 65, 171);
+    border-radius: 25px;
+    border: 2px solid #1ed760;
+}
+
+#button2:hover {
+    transform: scale(1.1);
+    background-color: #17eb61;
+}
+
+.player {
+    height: 550px;
+    background-color: rgb(41, 65, 171);
+    background-size: 110%;
+    background-position: right;
+    background-repeat: no-repeat;
+    transform: scale(100%);
+    background-image: url("download - Copy.svg");
+}
+
+.end {
+    height: 500px;
+    background-color: black;
+}
+
+#spotify2 {
+    margin-top: 80px;
+    margin-left: 105px;
+    height: 40px;
+}
+
+.dt {
+    margin: 50px 0 22px;
+    color: #919496;
+    font-size: 12px;
+    font-weight: 900;
+    line-height: 1.4;
+    letter-spacing: .08em;
+    text-transform: uppercase;
+}
+
+.dl {
+    color: white;
+    text-decoration: none;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
